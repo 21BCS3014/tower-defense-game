@@ -205,7 +205,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Simran**
 - Email: ss6773568@gmail.com
-- GitHub:
+- GitHub:https://github.com/21BCS3014/tower-defense-game
 - LinkedIn:www.linkedin.com/in/simran-3a4786230
 
 ## 🙏 Acknowledgments
